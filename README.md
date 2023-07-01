@@ -1,5 +1,5 @@
 # Eggys-GameDev-Unity-Classes
-Custom made classes by EggysGames that can help beginners learn Unity and Game Development
+Custom made classes by EggysGames that can help beginners learn Unity and Game Development. Will constantly add to this and improve it as time goes on.
 
 <b>=== Cursor ===</b>
 
